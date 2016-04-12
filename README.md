@@ -79,7 +79,7 @@ Run `gulp` one time to prepare the `dist` folder.
 gulp server
 ```
 
-Write your code on `scr` folder.
+Write your code on `src` folder.
 
 When finish your work the `dist` folder already exists and is solemnly send to production!
 
